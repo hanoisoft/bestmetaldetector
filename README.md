@@ -1,4 +1,4 @@
 bestmetaldetector
 =================
 
-Best Metal Detector bestmetaldetectors.org
+<a href="http://bestmetaldetectors.org">best metal detector</a>
